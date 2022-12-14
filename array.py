@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/np-arrays/problem
 # Score: 10
-
+#cc
 
 import numpy
 
