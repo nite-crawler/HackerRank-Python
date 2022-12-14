@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/np-arrays/problem
-# Score: 1
-
+# Score: 10
+#hacker Rank
 import numpy
 def arrays(arr):
     return numpy.array(arr[::-1], float)
